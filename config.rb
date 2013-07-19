@@ -1,40 +1,44 @@
 # == generic configuration =====================================================
 
-set :haml, { :format => :html5 } # haml settings
-set :markdown_engine, :redcarpet # use redcarpet as the markdown engine
+# enable syntax highlighting
+activate :syntax, linenos: 'inline', anchorlinenos: true, linenostart: 2
+# enable live reloading for changed files
+activate :livereload
+# automatic image dimensions on image_tag helper
+activate :automatic_image_sizes
 
-activate :livereload # enable live reloading for changed files
+# `haml` settings:
+# - turn off automatic indentation
+# - use html5 by default
+set :haml, { ugly: true, format: :html5 }
+# use `redcarpet` as the markdown engine
+set :markdown_engine, :redcarpet
+# apply syntax to markdown
+set :markdown, fenced_code_blocks: true, smartypants: true
 
-activate :automatic_image_sizes # automatic image dimensions on image_tag helper
-
-require 'susy' # enable susy + compass integration
-compass_config do |config| # compass configuration
+# enable `susy + compass` integration
+require 'susy'
+# `compass` configuration
+compass_config do |config|
   config.output_style = :expanded
 end
 
-set :css_dir, 'assets/styles' # css directory
-set :js_dir, 'assets/scripts' # scripts directory
-set :images_dir, 'assets/images' # images directory
+set :css_dir, 'assets/styles'
+set :js_dir, 'assets/scripts'
+set :images_dir, 'assets/images'
 
 
 # == build-specific configuration ==============================================
 
 configure :build do
 
-  # For example, change the Compass output style for deployment
   activate :minify_css
-
-  # Minify Javascript on build
   activate :minify_javascript
-
-  # Enable cache buster
   activate :cache_buster
-
-  # Compress PNGs after build
+  # compress `png`s after build
   require "middleman-smusher"
   activate :smusher
-
-  # Create favicon/touch icon set from source/favicon_base.png
+  # create `favicon/touch` icon set from `source/favicon_base.png`
   activate :favicon_maker
 
 end
