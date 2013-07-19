@@ -10,3 +10,5 @@ gem "susy", "~>1.0"
 gem "compass-susy-plugin"
 
 gem "redcarpet"
+
+gem "foreman"
