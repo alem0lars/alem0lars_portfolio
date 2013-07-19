@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Alessandro Molari -- Analyst, Designer, Developer -- @alem0lars
+
+# THANKS
+
+    Ruby development team for the awesome language,
+    Middleman developers for saving me a lot of time,
+    dannyprose for the rock-solid middleman skeleton
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

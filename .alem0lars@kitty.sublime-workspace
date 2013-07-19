@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dae",
+				"daemon_pth"
+			],
+			[
+				"init",
+				"initd_dir"
+			],
+			[
+				"push",
+				"push_doc"
+			],
+			[
+				"f",
+				"ft	form_tag"
+			],
+			[
+				"title",
+				"titleize"
+			],
+			[
+				"titl",
+				"titleize"
+			],
+			[
+				"title_featur",
+				"title_features_pre_reqs"
+			],
+			[
+				"crea",
+				"create_from_md"
+			],
+			[
+				"nam",
+				"name_regex"
+			],
+			[
+				"chan",
+				"changelog_file"
+			],
+			[
+				"feature_mod",
+				"feature_modularity_title"
+			],
+			[
+				"title_guide",
+				"title_guidebuilder_custom"
+			],
+			[
+				"title_gui",
+				"title_guidebuilder_standalone"
+			],
+			[
+				"tran",
+				"translations"
+			],
+			[
+				"sub",
+				"subtitles"
+			],
+			[
+				"awe",
+				"awesootup_modules"
+			],
+			[
+				"pre_req",
+				"pre_reqs"
+			],
+			[
+				"post",
+				"post_reqs_satisfied"
+			],
+			[
+				"mod_post",
+				"mod_post_reqs_ids"
+			],
+			[
+				"pre_reqs",
+				"pre_reqs_ids"
+			],
+			[
+				"render_featu",
+				"render_feature_content"
+			],
+			[
+				"provi",
+				"provides_satisfied"
+			],
+			[
+				"awesoo",
+				"awesootup_module"
+			],
+			[
+				"rende",
+				"render_feature"
+			],
+			[
+				"aweso",
+				"awesootup_module"
+			],
+			[
+				"main_",
+				"main_author_data"
+			],
+			[
+				"auth",
+				"author_data"
+			],
+			[
+				"auh",
+				"author_data"
+			],
+			[
+				"contri",
+				"contributors"
+			],
+			[
+				"basi",
+				"basic_name"
+			],
+			[
+				"creat",
+				"create_unless_exists"
+			],
+			[
+				"content",
+				"content_for"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"commi",
+				"commit_msg"
+			],
+			[
+				"ver",
+				"verbose"
+			],
+			[
+				"fi",
+				"firefox"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 164.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"chan",
+				"ChangeQuotes"
+			],
+			[
+				"ch",
+				"ChangeQuotes"
+			],
+			[
+				"change",
+				"ChangeQuotes"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"quick",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"findkey",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"amen",
+				"Git: Amend Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				":o",
+				":$ - EOF"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/usr/local/archive/projects/alem0lars_portfolio/assets/scripts/app.js.coffee",
+		"/usr/local/archive/projects/alem0lars_portfolio/controller.rb",
+		"/usr/local/archive/projects/alem0lars_portfolio/Gemfile",
+		"/usr/local/archive/projects/alem0lars_portfolio/bower.json",
+		"/usr/local/archive/projects/alem0lars_portfolio/assets/controller.rb",
+		"/usr/local/archive/projects/alem0lars_portfolio/markup/pages/home.html.haml",
+		"/usr/local/archive/projects/alem0lars_portfolio/.bowerrc",
+		"/usr/local/archive/projects/alem0lars_portfolio/assets/scripts/app/setup.js.coffee",
+		"/usr/local/archive/projects/projects-entry-point/assets/scripts/app.js",
+		"/usr/local/archive/projects/alem0lars_portfolio/assets/scripts/app/.gitkeep",
+		"/usr/local/archive/projects/alem0lars_portfolio/assets/scripts/lib/.gitkeep",
+		"/usr/local/archive/projects/personal-website_old_2/src/assets/scripts/app/app.js",
+		"/usr/local/archive/projects/alem0lars_portfolio/Rakefile",
+		"/usr/local/archive/projects/alem0lars_portfolio/package.json",
+		"/usr/local/archive/projects/alem0lars_portfolio/components/.gitkeep",
+		"/usr/local/archive/projects/alem0lars_portfolio/.gitignore",
+		"/usr/local/archive/projects/alem0lars_portfolio/.editorconfig",
+		"/usr/local/archive/projects/alem0lars_portfolio/markup/controller.rb",
+		"/usr/local/archive/projects/alem0lars_portfolio/public/markup/pages/home.html",
+		"/usr/local/archive/projects/alem0lars_portfolio/markup/layouts/default.html.haml",
+		"/usr/local/archive/projects/alem0lars_portfolio/tmp/.gitkeep",
+		"/usr/local/archive/projects/alem0lars_portfolio/.ruby-version",
+		"/usr/local/archive/projects/alem0lars_portfolio/shame.md",
+		"/usr/local/archive/projects/alem0lars_portfolio/src/files/scripts/main.js",
+		"/usr/local/archive/projects/alem0lars-portfolio/src/layouts/default.html.coffee",
+		"/usr/local/archive/projects/alem0lars-portfolio/docpad.coffee",
+		"/usr/local/archive/projects/alem0lars-portfolio/grunt.js",
+		"/usr/local/archive/projects/alem0lars-portfolio/grunt_config.js",
+		"/usr/local/archive/projects/alem0lars-portfolio/package.json",
+		"/usr/local/archive/projects/alem0lars-portfolio/Procfile",
+		"/usr/local/archive/projects/alem0lars-portfolio/node_modules/docpad/out/lib/docpad.js",
+		"/usr/local/archive/projects/alem0lars-portfolio/README.md",
+		"/usr/local/archive/projects/alem0lars-portfolio/.gitignore",
+		"/usr/local/archive/projects/awesootup/Gemfile",
+		"/usr/local/archive/projects/awesootup/spec/javascripts/example_spec.js.coffee",
+		"/usr/local/archive/projects/awesootup/config/initializers/jasminerice.rb",
+		"/usr/local/archive/projects/awesootup/config/initializers/inflections.rb",
+		"/usr/local/archive/projects/awesootup/Guardfile",
+		"/home/alem0lars/.config/sublime-text-3/Packages/User/ApplySyntax.sublime-settings",
+		"/usr/local/archive/projects/awesootup/spec/javascripts/spec.js.coffee",
+		"/usr/local/archive/projects/awesootup/spec/javascripts/fixtures/.gitkeep",
+		"/usr/local/archive/projects/awesootup/config/routes.rb",
+		"/usr/local/archive/projects/awesootup/spec/javascripts/support/jasmine.yml",
+		"/usr/local/archive/projects/awesootup/Gemfile.lock",
+		"/usr/local/archive/projects/awesootup/spec/javascripts/helpers/.gitkeep",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/active_admin.css.scss",
+		"/usr/local/archive/projects/awesootup/app/admin/dashboard.rb",
+		"/usr/local/archive/projects/awesootup/app/admin/awesootup_modules.rb",
+		"/usr/local/archive/projects/awesootup/app/admin/homepages.rb",
+		"/usr/local/archive/projects/awesootup/app/admin/admin_user.rb",
+		"/usr/local/archive/projects/awesootup/lib/tasks/cmds.rake",
+		"/usr/local/archive/projects/awesootup/app/models/awesootup_module.rb",
+		"/usr/local/archive/projects/awesootup/app/helpers/application_helper.rb",
+		"/usr/local/archive/projects/awesootup/.gitignore",
+		"/usr/local/archive/projects/awesootup/app/controllers/services_controller.rb",
+		"/usr/local/archive/projects/awesootup/app/controllers/application_controller.rb",
+		"/usr/local/archive/projects/awesootup/app/models/homepage.rb",
+		"/usr/local/archive/projects/awesootup/app/admin/translations.rb",
+		"/usr/local/archive/projects/awesootup/app/controllers/awesootup_modules_controller.rb",
+		"/usr/local/archive/projects/awesootup/app/helpers/awesootup_modules_helper.rb",
+		"/usr/local/archive/projects/awesootup/.cane",
+		"/usr/local/archive/projects/awesootup/app/models/service.rb",
+		"/usr/local/archive/projects/awesootup/app/views/layouts/application.haml",
+		"/usr/local/archive/projects/awesootup/Procfile",
+		"/usr/local/archive/projects/awesootup/.env",
+		"/usr/local/archive/projects/awesootup/app/controllers/homepages_controller.rb",
+		"/usr/local/archive/projects/awesootup/.ruby-version",
+		"/usr/local/archive/projects/awesootup/FEATURES.md",
+		"/usr/local/archive/projects/awesootup/lib/tasks/doc.rake",
+		"/usr/local/archive/projects/awesootup/config/locales/en.yml",
+		"/usr/local/archive/projects/awesootup/config/application.rb",
+		"/usr/local/archive/projects/awesootup/app/views/sessions/_new.html.haml",
+		"/usr/local/archive/projects/awesootup/app/views/partials/_menu_top.html.haml",
+		"/usr/local/archive/projects/awesootup/app/views/sessions/_new.html.erb",
+		"/usr/local/archive/projects/awesootup/app/views/sessions",
+		"/usr/local/archive/projects/awesootup/app/controllers/sessions_controller.rb",
+		"/usr/local/archive/projects/awesootup/config/initializers/omniauth.rb",
+		"/usr/local/archive/projects/awesootup/config/environment.rb",
+		"/usr/local/archive/projects/awesootup/lib/tasks/bootstrap.rake",
+		"/usr/local/archive/projects/awesootup/db/seeds.rb",
+		"/usr/local/archive/projects/awesootup/app/models/user.rb",
+		"/usr/local/archive/projects/awesootup/db/migrate/20130712053841_create_users.rb",
+		"/usr/local/archive/projects/awesootup/db/migrate/20130712055018_create_services.rb",
+		"/usr/local/archive/projects/awesootup/db/migrate/20130329144725_create_users.rb",
+		"/usr/local/archive/projects/awesootup/db/migrate/20130329144725_create_contributors.rb",
+		"/usr/local/archive/projects/awesootup/app/models/author.rb",
+		"/usr/local/archive/projects/awesootup/app/models/contributor.rb",
+		"/usr/local/archive/projects/awesootup/app/models/admin_user.rb",
+		"/usr/local/archive/projects/awesootup/README.md",
+		"/usr/local/archive/projects/awesootup/app/views/partials/footer/_about_links_useful.haml",
+		"/usr/local/archive/projects/awesootup/app/views/partials/_footer.html.haml",
+		"/usr/local/archive/projects/awesootup/config/initializers/active_admin.rb",
+		"/usr/local/archive/projects/awesootup/config/locales/devise.en.yml",
+		"/usr/local/archive/projects/awesootup/lib/tasks/heroku.rake",
+		"/usr/local/archive/projects/awesootup/lib/tasks/vcs.rake",
+		"/usr/local/archive/projects/awesootup/doc/src/MAIN.html",
+		"/usr/local/archive/projects/awesootup/doc/MAIN.html",
+		"/usr/local/archive/projects/genesis/lib/genesis/git_handlers/github.rb",
+		"/usr/local/archive/projects/awesootup/doc/README.md",
+		"/usr/local/archive/projects/awesootup/.gitmodules",
+		"/usr/local/archive/projects/awesootup/.alem0lars@kitty.sublime-workspace",
+		"/usr/local/archive/projects/awesootup/CHANGELOG.md",
+		"/usr/local/archive/projects/awesootup/doc/index.html",
+		"/usr/local/archive/projects/awesootup/index.html",
+		"/usr/local/archive/projects/awesootup/app/views/awesootup_modules/index.html.haml",
+		"/usr/local/archive/projects/awesootup/app/views/homepages/show/full.html.haml",
+		"/usr/local/archive/projects/awesootup/app/views/awesootup_modules/new.html.haml",
+		"/usr/local/archive/projects/awesootup/db/migrate/20130329171618_create_authors.rb",
+		"/usr/local/archive/projects/awesootup/app/views/partials/footer/_about_contributors_listing.haml",
+		"/usr/local/archive/projects/awesootup/app/views/partials/footer/_about_project_info.haml",
+		"/usr/local/archive/projects/awesootup/app/views/contributes/show/website.html.haml",
+		"/usr/local/archive/projects/awesootup/app/views/contributes/show/modules.html.haml",
+		"/usr/local/archive/projects/awesootup/app/views/contributes/show/guides.html.haml",
+		"/usr/local/archive/projects/awesootup/app/views/partials/footer/_about_project_contribute.haml",
+		"/usr/local/archive/projects/awesootup/README.rdoc",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/foundation_all.css.scss",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/layout/_main.css.scss",
+		"/home/alem0lars/tmp/testa/app/views/layouts/application.html.erb",
+		"/home/alem0lars/tmp/testa/app/assets/stylesheets/foundation_and_overrides.scss",
+		"/home/alem0lars/tmp/testa/app/assets/javascripts/application.js",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/foundation/_extensions.css.scss",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/foundation/_custom_settings.css.scss",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/foundation/_settings.css.scss",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/layout/_menu_top.css.scss",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/contributes.css.scss",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/homepages.css.scss",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/layout_all.css.scss",
+		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/application.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"/usr/local/archive/projects/awesootup",
+			"/usr/local/archive/projects/reference/awesootup/content"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"forema",
+			"join",
+			"\n",
+			"=> ",
+			"Rails.logger",
+			"omnihash",
+			"current_user",
+			"omniauth_prov",
+			"contributor",
+			"oauth",
+			"auth",
+			"author",
+			"docs",
+			"t('link_project_issues_url')",
+			"t('link_project_issues_title')",
+			"t('link_project_sourcecode_url')",
+			"t('link_project_sourcecode_title')",
+			"t('link_project_newissue_url')",
+			"t('link_project_newissue_title')",
+			"t('link_project_pull_url')",
+			"t('link_project_pull_title')",
+			"t('link_project_fork_url')",
+			"t('link_project_fork_title')",
+			"t('g_license_website')",
+			"t('g_license_name')",
+			"t('link_author_homepage_title')",
+			"t('link_author_homepage_url')",
+			"t('g_link_author_homepage')",
+			"t('g_author_website')",
+			"t('title_awesootup_g_author_name')",
+			"t('title_features')",
+			"t('title_features_post_reqs')",
+			"t('title_features_pre_reqs')",
+			"t('title_features_provided')",
+			"t('title_features')",
+			"t('title_news')",
+			"t('awesootupmodules_strictalternative_desc')",
+			"t('awesootupmodules_alternative_desc')",
+			"t('awesootupmodules_satisfied_desc')",
+			"t('awesootupmodules_equallysatisfied_desc')",
+			"t('title_awesootupmodules_strictalternative')",
+			"t('title_awesootupmodules_alternative')",
+			"t('title_awesootupmodules_satisfied')",
+			"t('title_awesootupmodules_equallysatisfied')",
+			"t('title_awesootupmodules_available')",
+			"t('awesootupmodules_available')",
+			"t('title_awesootupmodules')",
+			"t('guidebuilder_start_button')",
+			"t('contribute_modules_existinggoal')",
+			"t('contribute_modules_include')",
+			"t('contribute_modules_createmetadata')",
+			"t('contribute_modules_create')",
+			"t('contribute_guides_choosemodule')",
+			"t('contribute_guides_seeincontributors')",
+			"t('contribute_guides_approved')",
+			"t('contribute_guides_include')",
+			"t('contribute_createa')",
+			"t('title_homepage')",
+			"t('contribute_guides_createmetadata')",
+			"t('contribute_guides_create')",
+			"t('contribute_website_modify')",
+			"t('title_contribute_guides_steps')",
+			"t('title_contribute_modules_steps')",
+			"t('title_contribute_website_steps')",
+			"t('title_contribute_modules')",
+			"t('title_contribute_guides')",
+			"t('title_contribute_modules_short')",
+			"t('title_contribute_guides_short')",
+			"t('title_contribute_website_short')",
+			"t('title_contribute_website')",
+			"t('title_contribute')",
+			"t('title_homepage')",
+			"t('donation_reason')",
+			"t('title_contributorstable_name')",
+			"t('title_about_links_project')",
+			"t('title_about_links_useful')",
+			"t('title_about_links')",
+			"t('title_about_contributors_comment')",
+			"t('title_about_contributors')",
+			"t('title_about_project')",
+			"t('about_title')",
+			"t('title_about')",
+			"t('copyright_allrights')",
+			"t('copyright')",
+			"t('license_releasedunder')",
+			"t('license')",
+			"t('g_r_search')",
+			"t('title_search_deep')",
+			"t('title_search')",
+			"t('title_edit')",
+			"t('title_remove')",
+			"t('title_create')",
+			"t('title_browse')",
+			"t('title_module_name')",
+			"t('module_name')",
+			"t('title_name')",
+			"t('g_r_menu')",
+			"t('g_menu')",
+			"t('title')",
+			"t('author_role')",
+			"t('author_website')",
+			"t('author_email')",
+			"t('author_name')",
+			"t('license_website')",
+			"t('license_name')",
+			"t('motto')",
+			"t('desc')",
+			"desc",
+			"author_name",
+			"acronym",
+			"title_menu_expand",
+			"list",
+			"outline",
+			"inline",
+			"Default",
+			"default",
+			"$button-tny",
+			"emCalc(7px",
+			"menu",
+			"license",
+			"[:project]",
+			"topbar-",
+			"website_content",
+			"get",
+			"large",
+			"slow",
+			"data",
+			"data-selectTab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"t('g_link_project_issues_url')",
+			"t('g_link_project_issues_title')",
+			"t('g_link_project_sourcecode_url')",
+			"t('g_link_project_sourcecode_title')",
+			"t('g_link_project_newissue_url')",
+			"t('g_link_project_newissue_title')",
+			"t('g_link_project_pull_url')",
+			"t('g_link_project_pull_title')",
+			"t('g_link_project_fork_url')",
+			"t('g_link_project_fork_title')",
+			"t('g_link_license_url')",
+			"t('g_link_license_title')",
+			"t('g_link_license_url')",
+			"t('g_link_author_homepage_title')",
+			"t('g_link_author_homepage_url')",
+			"t('g_link_author_homepage')",
+			"t('g_r_name')",
+			"t('features_post_reqs_title')",
+			"t('features_pre_reqs_title')",
+			"t('features_provided_title')",
+			"t('features_title')",
+			"t('news_title')",
+			"t('awesootupmodule_strictalternative_desc')",
+			"t('awesootupmodule_alternative_desc')",
+			"t('awesootupmodule_satisfied_desc')",
+			"t('awesootupmodule_equallysatisfied_desc')",
+			"t('awesootupmodule_strictalternative_action')",
+			"t('awesootupmodule_alternative_action')",
+			"t('awesootupmodule_satisfied_action')",
+			"t('awesootupmodule_equallysatisfied_action')",
+			"t('awesootupmodules_available_title')",
+			"t('awesootupmodules_title')",
+			"t('g_r_start_now')",
+			"t('g_r_for_an_existing_module_to_fix_or_improve_it')",
+			"t('g_r_and_include_the_created_module_and_its_metadata_as_attachments')",
+			"t('g_r_create_the_metadata_for_the_module')",
+			"t('g_r_create_a_new_module')",
+			"t('g_r_choose_the_desired_existing_modules')",
+			"t('g_r_and_you_in_the_contributors_list')",
+			"t('g_r_if_it_is_approved_you_will_see_your_guide_in')",
+			"t('g_r_and_include_the_created_guide_and_its_metadata_as_attachments')",
+			"t('g_r_create_a')",
+			"t('homepage_title')",
+			"t('g_r_create_the_metadata_for_the_guide')",
+			"t('g_r_create_a_new_guide')",
+			"t('g_r_modify_the_website')",
+			"t('contribute_guides_steps_title')",
+			"t('contribute_modules_steps_title')",
+			"t('contribute_website_steps_title')",
+			"t('contribute_modules_title')",
+			"t('contribute_guides_title')",
+			"t('g_r_website')",
+			"t('contribute_website_title')",
+			"t('contribute_title')",
+			"t('homepage_title')",
+			"t('donation_reason')",
+			"t('g_r_name')",
+			"t('about_links_project_title')",
+			"t('about_links_useful_title')",
+			"t('about_links_title')",
+			"t('about_contributors_comment')",
+			"t('about_contributors_title')",
+			"t('about_project_title')",
+			"t('about_title')",
+			"t('g_r_all_rights_reserved')",
+			"t('g_r_all_of_the_content_is_released_under_the')",
+			"t('g_r_search')",
+			"t('g_r_edit')",
+			"t('g_r_remove')",
+			"t('g_r_create')",
+			"t('g_r_browse')",
+			"t('g_r_module_name')",
+			"t('g_r_name')",
+			"t('g_r_menu')",
+			"t('g_title')",
+			"t('g_author_role')",
+			"t('g_author_website')",
+			"t('g_author_email')",
+			"t('g_author_name')",
+			"t('g_license_website')",
+			"t('g_license_name')",
+			"t('g_motto')",
+			"t('g_desc')",
+			"g_desc",
+			"g_author_name",
+			"g_acronym",
+			"g_menu"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 221.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
