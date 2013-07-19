@@ -1,6 +1,6 @@
 # == generic configuration =====================================================
 
-set :haml, { :ugly => !development?, :format => :html5 } # haml settings
+set :haml, { :format => :html5 } # haml settings
 set :markdown_engine, :redcarpet # use redcarpet as the markdown engine
 
 activate :livereload # enable live reloading for changed files
@@ -21,20 +21,18 @@ set :images_dir, 'assets/images' # images directory
 
 configure :build do
 
-  unless development?
-    # For example, change the Compass output style for deployment
-    activate :minify_css
+  # For example, change the Compass output style for deployment
+  activate :minify_css
 
-    # Minify Javascript on build
-    activate :minify_javascript
+  # Minify Javascript on build
+  activate :minify_javascript
 
-    # Enable cache buster
-    activate :cache_buster
+  # Enable cache buster
+  activate :cache_buster
 
-    # Compress PNGs after build
-    require "middleman-smusher"
-    activate :smusher
-  end
+  # Compress PNGs after build
+  require "middleman-smusher"
+  activate :smusher
 
   # Create favicon/touch icon set from source/favicon_base.png
   activate :favicon_maker
