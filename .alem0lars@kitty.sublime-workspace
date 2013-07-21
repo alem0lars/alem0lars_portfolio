@@ -149,6 +149,9 @@
 			]
 		]
 	},
+	"buffers":
+	[
+	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -292,9 +295,17 @@
 	},
 	"file_history":
 	[
+		"/usr/local/archive/projects/alem0lars_portfolio/source/layouts/layout.haml",
+		"/usr/local/archive/projects/alem0lars_portfolio/source/partials/menu_top.html.haml",
+		"/usr/local/archive/projects/alem0lars_portfolio/source/partials/copyright_notice.html.haml",
+		"/home/alem0lars/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/home/alem0lars/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/usr/local/archive/projects/alem0lars_portfolio/source/assets/styles/app.css.scss",
+		"/usr/local/archive/projects/alem0lars_portfolio/source/assets/styles/app/bg.css.scss",
+		"/usr/local/archive/projects/alem0lars_portfolio/Gemfile",
+		"/usr/local/archive/projects/alem0lars_portfolio/CHANGELOG.md",
 		"/usr/local/archive/projects/alem0lars_portfolio/assets/scripts/app.js.coffee",
 		"/usr/local/archive/projects/alem0lars_portfolio/controller.rb",
-		"/usr/local/archive/projects/alem0lars_portfolio/Gemfile",
 		"/usr/local/archive/projects/alem0lars_portfolio/bower.json",
 		"/usr/local/archive/projects/alem0lars_portfolio/assets/controller.rb",
 		"/usr/local/archive/projects/alem0lars_portfolio/markup/pages/home.html.haml",
@@ -411,15 +422,7 @@
 		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/layout/_main.css.scss",
 		"/home/alem0lars/tmp/testa/app/views/layouts/application.html.erb",
 		"/home/alem0lars/tmp/testa/app/assets/stylesheets/foundation_and_overrides.scss",
-		"/home/alem0lars/tmp/testa/app/assets/javascripts/application.js",
-		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/foundation/_extensions.css.scss",
-		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/foundation/_custom_settings.css.scss",
-		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/foundation/_settings.css.scss",
-		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/layout/_menu_top.css.scss",
-		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/contributes.css.scss",
-		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/homepages.css.scss",
-		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/layout_all.css.scss",
-		"/usr/local/archive/projects/awesootup/app/assets/stylesheets/application.css"
+		"/home/alem0lars/tmp/testa/app/assets/javascripts/application.js"
 	],
 	"find":
 	{
@@ -439,6 +442,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"4",
+			"space",
+			"inden",
 			"forema",
 			"join",
 			"\n",
@@ -563,10 +569,7 @@
 			"topbar-",
 			"website_content",
 			"get",
-			"large",
-			"slow",
-			"data",
-			"data-selectTab"
+			"large"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -668,6 +671,14 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
 	"incremental_find":
 	{
 		"height": 36.0
@@ -703,6 +714,7 @@
 	{
 		"height": 221.0
 	},
+	"project": ".alem0lars@kitty.sublime-project",
 	"replace":
 	{
 		"height": 0.0

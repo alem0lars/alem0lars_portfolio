@@ -1,0 +1,7 @@
+@import "compass/css3/background-size";
+
+
+body {
+  background: url(/assets/images/background.png) no-repeat top center fixed;
+  @include background-size(cover);
+}

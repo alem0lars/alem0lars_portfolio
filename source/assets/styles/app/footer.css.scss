@@ -1,0 +1,16 @@
+@import "app/widgets";
+
+
+$footer_width: 90%;
+
+#footer {
+  position: absolute;
+  margin: 0 auto;
+  bottom: 0;
+  left: (100% - $footer_width) / 2;
+  height: 6em;
+  width: $footer_width;
+  text-align: center;
+
+  @include panel(bottom);
+}

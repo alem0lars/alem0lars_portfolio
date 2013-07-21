@@ -1,0 +1,22 @@
+@import "compass/css3/opacity";
+@import "compass/css3/border-radius";
+
+@import "app/colors";
+
+
+@mixin panel($type: "standard") {
+  color: $gray_dark;
+  background-color: rgba($gray_dark, 0.2);
+
+  $radius: 0.6em;
+
+  @if ($type == "standard") {
+    @include border-radius($radius);
+  } @else if ($type == "bottom") {
+    @include border-top-left-radius($radius);
+    @include border-top-right-radius($radius);
+  } @else if ($type == "top") {
+    @include border-bottom-left-radius($radius);
+    @include border-bottom-right-radius($radius);
+  }
+}
