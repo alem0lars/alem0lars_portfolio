@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+
+@import "app/widgets";
+
+
+#left-side {
+  @include panel();
+}

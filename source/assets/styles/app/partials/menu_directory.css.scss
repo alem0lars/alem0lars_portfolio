@@ -1,0 +1,17 @@
+#menu-directory {
+  .menu-link-wrp {
+    .menu-link {
+      text-decoration: none;
+      margin: 0 0.4em;
+
+      .title-wrp {
+        color: $white;
+        font-size: 1.2em;
+
+        .title {
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}

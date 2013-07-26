@@ -1,7 +1,13 @@
+@charset "utf-8";
+
+
 @import "app/widgets";
+
+@import "app/partials/copyright_notice";
 
 
 $footer_width: 90%;
+
 
 #footer {
   position: absolute;

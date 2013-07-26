@@ -1,3 +1,6 @@
+@charset "utf-8";
+
+
 @import "compass/css3/opacity";
 @import "compass/css3/border-radius";
 
@@ -5,8 +8,8 @@
 
 
 @mixin panel($type: "standard") {
-  color: $gray_dark;
-  background-color: rgba($gray_dark, 0.2);
+  color: $white;
+  background-color: rgba($grey_dark, 0.36);
 
   $radius: 0.6em;
 

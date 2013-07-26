@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+
+@import "susy";
+
+
+$total-columns: 7;
+$column-width: 4em;
+$gutter-width: 1em;
+$grid-padding: $gutter-width;
+
+$break: 12;
+
+
+.main {
+  @include container($total-columns, $break);
+}

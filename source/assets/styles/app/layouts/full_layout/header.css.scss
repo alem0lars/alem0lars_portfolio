@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+
+@import "app/widgets";
+@import "app/colors";
+
+@import "app/partials/menu_directory";
+
+
+$header_width: 90%;
+
+
+#header {
+  margin: 0 auto;
+  left: (100% - $header_width) / 2;
+  height: 12em;
+  width: $header_width;
+  text-align: center;
+
+  @include panel(top);
+}
